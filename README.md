@@ -1,0 +1,1 @@
+Streaming is done via OBS, using a static photo and animating it in OBS depending on the audio intensity, a small script was made depending on dynamic playlist to change the speaker which is added
